@@ -1,0 +1,16 @@
+.container {
+    background-image: url("./images/background.jpg");
+}
+
+.result-item{
+    background: linear-gradient(to bottom, lightgrey, whitesmoke);
+    border: 5px ridge whitesmoke;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#header {
+    background: linear-gradient(to bottom, lightgrey, whitesmoke);
+    border: 5px ridge whitesmoke;
+    padding: 10px;
+}
